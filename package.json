@@ -1,0 +1,24 @@
+{
+  "name": "interviewquestion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^1.2.1",
+    "@langchain/mistralai": "^1.2.0",
+    "@langchain/openai": "^1.5.3",
+    "@langchain/pinecone": "^1.0.3",
+    "@langchain/textsplitters": "^1.0.1",
+    "@pinecone-database/pinecone": "^5.1.2",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "langchain": "^1.5.2",
+    "pdf-parse": "^2.4.5"
+  }
+}
